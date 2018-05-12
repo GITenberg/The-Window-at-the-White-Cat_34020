@@ -1,0 +1,35 @@
+_repo: The-Window-at-the-White-Cat_34020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: '"Jack Knox adored the beautiful Margery, but unfortunately she adored
+  the less-than-reputable Harry Wardrop. That was problem enough for the attorney,
+  but when Margery''s father, a corrupt politician named Allan Fleming went missing,
+  things took a decidedly nasty turn. The worst of it was discovering Fleming''s body
+  at the shoddy social club called The White Cat."'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2010-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Lawyers -- Fiction'
+- !lcsh 'Political corruption -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+title: The Window at the White Cat
+url: http://www.gutenberg.org/ebooks/34020
